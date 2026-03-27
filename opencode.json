@@ -1,9 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": ["superpowers-discipline"],
-  "plugins": {
-    "superpowers-discipline": {
-      "enabled": true
-    }
-  }
+  "plugin": ["superpowers-discipline"]
 }
